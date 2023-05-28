@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing software for solving real world problems.
 - 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me github or email
+- 📫 You can reach me on github or email
 
 ![Visitor Count](https://profile-counter.glitch.me/shivamsks219/count.svg)
 
